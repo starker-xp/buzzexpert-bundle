@@ -6,12 +6,12 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "authors": {
+    "authors": [
 	{
 	    "name": "Guillaume CAOUISSIN",
 	    "email": "g.caouissin@starker-xp.net",
         }
-    },
+    ],
     "autoload": {
         "psr-4": {
             "Starkerxp\\BuzzExpertBundle\\": ""
